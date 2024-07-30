@@ -1,8 +1,8 @@
 [app]
 
-title = Test App
-package.name = testapp
-package.domain = org.test
+title = DictioQQuiz
+package.name = dictioqquiz
+package.domain = org.dictioquiz
 
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
