@@ -21,8 +21,8 @@ Window.size = (360, 640)
 # Path to save the word list
 WORD_LIST_FILE = 'word_list.json'
 
-LabelBase.register(name='ComicNeue', fn_regular='fonts/ComicNeue.ttf')
-LabelBase.register(name='Poppins', fn_regular='fonts/Poppins.ttf')
+LabelBase.register(name='ComicNeue', fn_regular='ComicNeue.ttf')
+LabelBase.register(name='Poppins', fn_regular='Poppins.ttf')
 
 # Load word list from file
 def load_word_list():
