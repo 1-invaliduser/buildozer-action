@@ -1,7 +1,7 @@
 [app]
 
-title = DictioQQuiz
-package.name = dictioqquiz
+title = DictioQuiz
+package.name = dictioquiz
 package.domain = org.dictioquiz
 
 source.dir = .
